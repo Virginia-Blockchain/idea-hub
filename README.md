@@ -3,7 +3,8 @@
 
 > Virginia Blockchain [Website] // need to add
 
-| [Current Projects](#current) | [Pending Ideas](#pending) | ------------- | ------------- | 
+| [Current Projects](#current) | [Pending Ideas](#pending) |
+| ------------- | ------------- | 
 
 ## Current Projects <a name="current"></a>
 * [website](./website/simple-options.md)
