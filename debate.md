@@ -8,6 +8,8 @@
 
 2. Panel discussion where I might sit on a panel with skeptics and answer questions from a moderator and/or the audience.
 
+> call the panel: "Should we invest in blockchain"
+
 ## Reach Out List
 
 * AIF -- Vamsi, Jeevan, Dakota, Calvin
